@@ -1,0 +1,105 @@
+{
+  "products": [
+    {
+      "id": "001",
+      "name": "Apple MacBook Pro",
+      "price": "2399.99",
+      "weight": "2.0kg",
+      "description": "Apple MacBook Pro with 14-inch Liquid Retina XDR display, M1 Pro chip, and up to 32GB of unified memory."
+    },
+    {
+      "id": "002",
+      "name": "Samsung Galaxy S21",
+      "price": "799.99",
+      "weight": "0.171kg",
+      "description": "Samsung Galaxy S21 with 6.2-inch Dynamic AMOLED 2X display, Exynos 2100 (International) or Qualcomm Snapdragon 888 (USA), and up to 8GB of RAM."
+    },
+    {
+      "id": "003",
+      "name": "Sony WH-1000XM4",
+      "price": "348.00",
+      "weight": "0.254kg",
+      "description": "Sony WH-1000XM4 Wireless Noise-Cancelling Over-the-Ear Headphones with up to 30 hours of battery life."
+    },
+    {
+      "id": "004",
+      "name": "Dell XPS 13",
+      "price": "1249.99",
+      "weight": "1.27kg",
+      "description": "Dell XPS 13 with 13.4-inch FHD+ display, Intel Core i7, and up to 16GB of RAM."
+    },
+    {
+      "id": "005",
+      "name": "Apple iPhone 13 Pro",
+      "price": "999.00",
+      "weight": "0.204kg",
+      "description": "Apple iPhone 13 Pro with 6.1-inch Super Retina XDR display, A15 Bionic chip, and up to 1TB of storage."
+    },
+    {
+      "id": "006",
+      "name": "Bose QuietComfort 35 II",
+      "price": "299.00",
+      "weight": "0.235kg",
+      "description": "Bose QuietComfort 35 II Wireless Noise-Cancelling Headphones with up to 20 hours of battery life."
+    },
+    {
+      "id": "007",
+      "name": "Samsung Galaxy Tab S7",
+      "price": "649.99",
+      "weight": "0.498kg",
+      "description": "Samsung Galaxy Tab S7 with 11-inch TFT display, Snapdragon 865+, and up to 8GB of RAM."
+    },
+    {
+      "id": "008",
+      "name": "Sony PlayStation 5",
+      "price": "499.99",
+      "weight": "4.5kg",
+      "description": "Sony PlayStation 5 with custom RDNA 2 GPU, custom AMD Zen 2 CPU, and ultra-high-speed SSD."
+    },
+    {
+      "id": "009",
+      "name": "Microsoft Xbox Series X",
+      "price": "499.99",
+      "weight": "4.44kg",
+      "description": "$Microsoft Xbox Series X with custom RDNA 2 GPU, custom AMD Zen 2 CPU, and ultra-high-speed SSD."
+    },
+    {
+      "id": "010",
+      "name": "Apple Watch Series 7",
+      "price": "399.00",
+      "weight": "0.036kg",
+      "description": "Apple Watch Series 7 with always-on Retina display, S7 SiP with 64-bit dual-core processor, and up to 18 hours of battery life."
+    },
+    {
+      "id": "011",
+      "name": "Google Pixel 6 Pro",
+      "price": "899.00",
+      "weight": "0.210kg",
+      "description": "Google Pixel 6 Pro with a smooth display, Google Tensor SoC, and up to 12GB of RAM."
+    },
+    {
+      "id": "012",
+      "name": "Amazon Echo (4th Gen)",
+      "price": "99.99",
+      "weight": "0.970kg",
+      "description": "Amazon Echo (4th Gen) with premium sound, smart home hub, and Alexa."
+    },
+    {
+      "id": "013",
+      "name": "Nintendo Switch OLED Model",
+      "price": "349.99",
+      "weight": "0.420kg",
+      "description": "Nintendo Switch OLED Model with a vibrant OLED screen, adjustable stand for tabletop mode, and enhanced audio for handheld and tabletop play."
+    },
+    {
+      "id": "99",
+      "name": "EditProduct",
+      "description": "EditLorem"
+    },
+    {
+      "name": "Product",
+      "description": "Lorem",
+      "id": "JUlVcI5"
+    }
+  ]
+}
